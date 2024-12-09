@@ -1,4 +1,4 @@
-# Kṣetra-jñam
+# Kṣetra-jñam (The knower of the field)
 
 ---
 ![ksetra_jnam](https://github.com/user-attachments/assets/e36088ca-7182-4e45-acc7-67004e419531)
