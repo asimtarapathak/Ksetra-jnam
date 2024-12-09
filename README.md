@@ -33,6 +33,7 @@ Kṣetra-jñam (the knower of the field) is a web application vulnerability scan
 Ksetra-jnam takes URL as input/argunment starting with format 'http or https://'. -h option can be used to see the usage menu.
 ```
  python Ksetra-jnam.py -h
+```
 
 ![2](https://github.com/user-attachments/assets/e3b17c56-ae8e-4073-8235-b5a97f5f173e)
 ---
