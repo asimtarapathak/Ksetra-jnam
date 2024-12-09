@@ -23,7 +23,7 @@ Kṣetra-jñam (the knower of the field) is a web application vulnerability scan
 ```
 3. Run cmd and Install the required dependencies using pip:
 ```
-  pip install -r requirements.py
+  pip install -r requirements.txt
 ```
 ![1](https://github.com/user-attachments/assets/e44c7add-e230-4b56-bce6-98e8190a447f)
 
