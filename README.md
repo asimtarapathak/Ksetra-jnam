@@ -13,7 +13,7 @@ Kṣetra-jñam (the knower of the field) is a web application vulnerability scan
 
 **Note**: Python-3 must be installed in your device
 
-1. Clone the MakhanChor repository to your local machine
+1. Clone the Ksetra-jnam repository to your local machine
 ```
   git clone https://github.com/asimtarapathak/Ksetra-jnam.git 
 ```
